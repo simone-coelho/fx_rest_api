@@ -1,0 +1,6 @@
+name = "fx_rest_api"
+main = "src/index.ts"
+compatibility_date = "2023-02-09"
+kv_namespaces = [
+    { binding = "FX_HYBRID_DATA_KV", id = "553204c3560e4c93b8344ba0389e6751",  preview_id = "8808935c4b404a61859768ae831e095f" }
+]
